@@ -1,0 +1,36 @@
+body {
+    background-color: #222222;
+}
+
+.title {
+    font-size: 100px;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.subheading {
+    font-size: 40px;
+}
+
+.row2 {
+    margin-bottom: 100px;
+}
+
+.fas {
+    color: #f2eeee;
+    font-size: 100px;
+}
+
+.about {
+    background-color: #E26E3C;
+    width: 100vw;
+    height: 300px;
+}
+
+.about-text {
+    margin-top: auto;
+    margin-bottom: auto;
+}
